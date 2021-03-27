@@ -5,6 +5,7 @@
 
 **[English Document](https://github.com/iview/iview-area/blob/dev/READEME_EN.md)**
 **[线上DEMO](https://iview.github.io/iview-area/)**
+**[fork自iview-area数据更换为新数据]
 
 iview-area有两种形式的级联: 
 - 下拉菜单(基于iview的Select组件)
@@ -12,12 +13,12 @@ iview-area有两种形式的级联:
 
 # install 安装
 ```
-    npm install iview-area --save
+    npm install iview-area-chzy --save
 ```
 # use 使用
 在main.js中写入下面的代码
 ```javascript
-    import iviewArea from 'iview-area';
+    import iviewArea from 'iview-area-chzy';
     import Vue from 'vue';
     Vue.use(iviewArea);
 ```

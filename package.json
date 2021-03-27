@@ -1,7 +1,7 @@
 {
-  "name": "iview-area",
-  "version": "1.6.0",
-  "description": "An area-linkage-component bases on Vue and iView-UI components",
+  "name": "iview-area-chzy",
+  "version": "2.1.0",
+  "description": "An area-linkage-component bases on Vue and iView-UI components iview-area的地区数据更新",
   "author": "Lison",
   "license": "MIT",
   "private": false,
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iview/iview-area.git"
+    "url": "git+https://github.com/zhang19980518/iview-area"
   },
   "bugs": {
-    "url": "https://github.com/iview/iview-area/issues"
+    "url": "https://github.com/zhang19980518/iview-area"
   },
-  "homepage": "https://github.com/iview/iview-area#readme",
+  "homepage": "https://github.com/zhang19980518/iview-area#readme",
   "dependencies": {
-    "area-data": "^1.0.0",
+    "area-data": "^5.0.6",
     "iview": "^3.0.0",
     "vue": "^2.5.17"
   },
